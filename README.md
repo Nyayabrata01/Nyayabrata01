@@ -1,4 +1,4 @@
- <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500"> 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
  
 <h1 align="center">Hi 👋, I'm Nyayabrata Das</h1>
 <h3 align="center">A passionate fullstack and devops Enginner from India</h3>
